@@ -1,8 +1,8 @@
 ## Themes
-➡️ [GitHub Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+➡️ [Serendipity](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 ## Font
 ➡️ [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 ## Icons
-➡️ [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+➡️ [Material](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 ## Product Icons
 ➡️ [Fluent](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
